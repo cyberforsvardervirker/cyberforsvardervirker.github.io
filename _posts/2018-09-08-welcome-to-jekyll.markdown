@@ -6,4 +6,4 @@ categories: jekyll update
 ---
 
 
-![Er der et billede](https://cyberforsvardervirker.dk/assets/Capture.PNG){:class="img-responsive"}
+<p><img src="https://cyberforsvardervirker.dk/assets/Capture.PNG" alt="Virker Det" /></p>
