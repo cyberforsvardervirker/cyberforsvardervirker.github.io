@@ -13,4 +13,4 @@ hvad med nu
 
 
 
-<p><img src="https://cyberforsvardervirker.dk/assets/1" alt="Virker Det2" /></p>
+<p><img src="https://cyberforsvardervirker.dk/assets/1.png" alt="Virker Det2" /></p>
