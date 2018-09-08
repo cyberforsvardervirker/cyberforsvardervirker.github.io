@@ -2,11 +2,10 @@ title: Cyber forsvar der virker
 email: fr@flemmingriis.com
 description: >- # this means to ignore newlines until "baseurl:"
 
-
-
-http://cyberforsvardervirker.dk
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://cyberforsvardervirker.dk
 twitter_username: flemmingriis
-github_username: cyberforsvardervirker
+github_username:  cyberforsvardervirker
 
 # Build settings
 markdown: kramdown
