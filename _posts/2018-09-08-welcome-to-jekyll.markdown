@@ -6,4 +6,4 @@ categories: jekyll update
 ---
 
 
-![Er der et billede](/blob/master/assets/Capture.PNG/capture.png){:class="img-responsive"}
+![Er der et billede](https://cyberforsvardervirker.dk/assets/Capture.PNG){:class="img-responsive"}
