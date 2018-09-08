@@ -7,3 +7,10 @@ categories: jekyll update
 
 
 <p><img src="https://cyberforsvardervirker.dk/assets/Capture.PNG" alt="Virker Det" /></p>
+
+
+hvad med nu
+
+
+
+<p><img src="https://cyberforsvardervirker.dk/assets/1" alt="Virker Det2" /></p>
