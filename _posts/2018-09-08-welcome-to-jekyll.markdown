@@ -6,8 +6,6 @@ categories: jekyll update
 ---
 
 
-Formålet med denne blog er at vise eksempler på hvordan man kan styke sikkerheden i et Windows miljø , uden at købe magiske bokse
-
-
+Formålet med denne blog er at vise eksempler på hvordan man kan styke sikkerheden i et Windows miljø , uden at købe magiske bokse hele tiden
 
 -
